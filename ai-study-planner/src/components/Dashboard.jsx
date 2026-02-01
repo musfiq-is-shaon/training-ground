@@ -73,6 +73,14 @@ const Dashboard = () => {
     }));
   };
 
+  const handleDeleteExamDate = () => {
+    setData(prev => ({
+      ...prev,
+      examDate: null,
+      timetable: [] // Reset timetable when exam date is deleted
+    }));
+  };
+
   const handleGeneratePlan = useCallback(() => {
     if (!data.subjects.length || !data.examDate) return;
     
@@ -187,6 +195,7 @@ const Dashboard = () => {
             <ExamDateInput
               examDate={data.examDate}
               onSetExamDate={handleSetExamDate}
+              onDeleteExamDate={handleDeleteExamDate}
             />
           </div>
 
