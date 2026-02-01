@@ -5,7 +5,7 @@
 ![AI Study Planner](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38bdf8?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-5.0.8-646cff?logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 **A modern, AI-powered study planner with smart scheduling, Pomodoro timer, and progress tracking.**
 
@@ -196,7 +196,7 @@ const defaultData = {
 
 ##  License
 
-MIT License — feel free to use this project for personal or commercial purposes.
+Feel free to use this project for personal or commercial purposes.
 
 ---
 
