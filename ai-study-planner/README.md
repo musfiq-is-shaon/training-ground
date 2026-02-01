@@ -204,7 +204,7 @@ Feel free to use this project for personal or commercial purposes.
 
 **Built with ❤️ for students everywhere**
 
-⭐ Star this repo if you found it helpful!
+⭐ Star this Repo if you found it helpful!
 
 </div>
 
